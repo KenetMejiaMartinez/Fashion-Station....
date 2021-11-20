@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Tarea9_L3\BL.Fashion\bin\Debug\BL.Fashion.dll.config
+C:\Users\Admin\Desktop\Tarea9_L3\BL.Fashion\bin\Debug\BL.Fashion.dll
+C:\Users\Admin\Desktop\Tarea9_L3\BL.Fashion\bin\Debug\BL.Fashion.pdb
+C:\Users\Admin\Desktop\Tarea9_L3\BL.Fashion\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Tarea9_L3\BL.Fashion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Tarea9_L3\BL.Fashion\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Tarea9_L3\BL.Fashion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Tarea9_L3\BL.Fashion\obj\Debug\BL.Fashion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Tarea9_L3\BL.Fashion\obj\Debug\BL.Fashion.dll
+C:\Users\Admin\Desktop\Tarea9_L3\BL.Fashion\obj\Debug\BL.Fashion.pdb
